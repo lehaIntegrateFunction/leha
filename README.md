@@ -8,8 +8,7 @@
 <br/>
 
 <!-- Короткое описание -->
-Краткое описание того, чем ты занимаешься — например:
-"Разрабатываю бэкенд на Go, люблю чистый код и open source"
+Набираюсь опыта в сфере Кибербезопастности
 
 <br/><br/>
 
@@ -51,5 +50,29 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=klleimo&show_icons=true&theme=black&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=00000000" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=klleimo&theme=black&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 📈 Активность (живой график)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=klleimo&theme=github-dark&hide_border=true&bg_color=00000000" width="90%" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🐍 Snake-анимация коммитов
+
+<img src="https://raw.githubusercontent.com/klleimo/klleimo/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 </div>
